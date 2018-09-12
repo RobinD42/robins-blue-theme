@@ -10,4 +10,4 @@ Enjoy!
 
 Screenshot:
 
-![Robin's Blue Theme screenshot](https://github.com/RobinD42/robins-blue-theme/blob/master/screenshot.png)
+![Robin's Blue Theme screenshot](https://github.com/RobinD42/robins-blue-theme/raw/master/screenshot.png)
