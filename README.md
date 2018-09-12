@@ -7,3 +7,7 @@ to use similar colors for all parts of the window) I decided to make my own. The
 result is this theme, "Robin's Blue Theme".
 
 Enjoy!
+
+Screenshot:
+
+![Robin's Blue Theme screenshot](https://github.com/RobinD42/robins-blue-theme/blob/master/screenshot.png)
