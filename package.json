@@ -1,0 +1,28 @@
+{
+    "name": "robins-blue-theme",
+    "displayName": "Robin's Blue Theme",
+    "description": "A basic dark blue editor, with dark non-blue bars.",
+    "version": "0.0.1",
+    "publisher": "RobinD42",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Robin's Blue Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/robins-blue-theme.json"
+            }
+        ]
+    }
+}
