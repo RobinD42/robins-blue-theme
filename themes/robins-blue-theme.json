@@ -45,7 +45,7 @@
 		"statusBar.border": "#303038",
 		"statusBar.debuggingBackground": "#001126",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#000070",
+		"statusBar.noFolderBackground": "#323240",
 		"statusBarItem.hoverBackground": "#3b3bee",
 		"tab.inactiveBackground": "#303030",
 		"terminal.ansiBlack": "#111111",
