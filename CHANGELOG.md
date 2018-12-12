@@ -15,4 +15,10 @@ This file documents the changes made to the "robins-blue-theme" extension.
 - Set the statusBar.noFolderBackground to be the same as the regular statusbar
   background color.
 
+### 0.0.5 18-Sept-2018
+- Slightly darken the breadcrumbs bar, and set the active tab to match.  
+
+### 0.0.6 12-DEc-2018
+- Set theme colors for the titleBar and menus for when the non-native titleBar 
+  is used.
   
