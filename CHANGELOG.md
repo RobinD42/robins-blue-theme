@@ -18,7 +18,10 @@ This file documents the changes made to the "robins-blue-theme" extension.
 ### 0.0.5 18-Sept-2018
 - Slightly darken the breadcrumbs bar, and set the active tab to match.  
 
-### 0.0.6 12-DEc-2018
+### 0.0.6 12-Dec-2018
 - Set theme colors for the titleBar and menus for when the non-native titleBar 
   is used.
-  
+
+### 0.0.7 14-June-2019
+- Changed the default terminal colors to improve visibility and contrast.
+- Darkened the panel background.
