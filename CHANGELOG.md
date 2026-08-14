@@ -34,3 +34,6 @@ This file documents the changes made to the "robins-blue-theme" extension.
   
 ### 0.0.9 14-Aug-2026
 - Tweak the Terminal and statusbar debug mode background colors.
+
+### 0.1.0 14-Aug-2026
+- Set minimap bg to match gutter bg.
