@@ -31,4 +31,6 @@ This file documents the changes made to the "robins-blue-theme" extension.
 - Change titleBar.activeBackground so the new gap between the editor and bars is not so glaring.
 - Tweak some other colors to fit in a little better with other changes.
 - Tab colors don't seem to match the documentation any more :frown:
-- 
+  
+### 0.0.9 14-Aug-2026
+- Tweak the Terminal and statusbar debug mode background colors.
