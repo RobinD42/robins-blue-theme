@@ -25,3 +25,10 @@ This file documents the changes made to the "robins-blue-theme" extension.
 ### 0.0.7 14-June-2019
 - Changed the default terminal colors to improve visibility and contrast.
 - Darkened the panel background.
+
+### 0.0.8 14-Aug-2026
+- Adapted to a few of the changes in VSCode 1.133.
+- Change titleBar.activeBackground so the new gap between the editor and bars is not so glaring.
+- Tweak some other colors to fit in a little better with other changes.
+- Tab colors don't seem to match the documentation any more :frown:
+- 
